@@ -1,6 +1,6 @@
 //Задание 1
 
-//string string1 = "Арина Даша Маша";
+//string string1 = "Света Даша Маша";
 //string new_string = string1.Substring();
 //Console.WriteLine(new_string);
 //for(int i =0; i < nnn.Length & nnn[i]!="Маша"; i++)
